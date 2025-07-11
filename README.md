@@ -101,7 +101,7 @@ POST /v1/deliveries
 Endpoint:
 
 ```
-bashCopiarEditarGET /v1/deliveries/{delivery_id}
+GET /v1/deliveries/{delivery_id}
 ```
 
 ### 📨 Body
